@@ -3,7 +3,7 @@ Check if a username is available on kick.com
 
 Guide:
 
-1. pip install requirements.xt
+1. pip install requirements.txt
 
 2. add usernames you want to check to usernames.txt
    
